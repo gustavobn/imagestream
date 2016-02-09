@@ -6,7 +6,7 @@
 npm install
 ```
 
-1. Run the server:
+2. Run the server:
 ```  
 node server.js
 ```
