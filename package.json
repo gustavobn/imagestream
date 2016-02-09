@@ -1,0 +1,26 @@
+{
+  "name": "imagestream",
+  "version": "1.0.0",
+  "description": "NodeJS image stream example",
+  "main": "server.js",
+  "dependencies": {
+    "binaryjs": "^0.2.1",
+    "binarypack": ">=0.0.4",
+    "streamers": ">=0.1.0",
+    "streamws": ">=0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavobn/imagestream.git"
+  },
+  "author": "Gustavo Beauregard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gustavobn/imagestream/issues"
+  },
+  "homepage": "https://github.com/gustavobn/imagestream#readme"
+}
