@@ -11,7 +11,7 @@ npm install
 node server.js
 ```
 
-2. Open `index.html` in your browser
+3. Open `index.html` in your browser
 
 You should see a pig. If not, your browser probably doesn't support binary websockets.
 
